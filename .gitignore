@@ -1,0 +1,41 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!/src/main/
+!/src/test/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+'.idea'
+'*.mvn'
+g42-accessory-server/.mvn
+g42-accessory-server/mvnw
+g42-accessory-server/mvnw.cmd
+g42-accessory-server/target
+g42-accessory-server/web
+g42-accessory-server/g42-accessory-server.iml
+g42-accessory-client/g42-accessory-client.iml
+node_modules/**.idea
